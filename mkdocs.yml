@@ -1,0 +1,18 @@
+site_name: Morgan Roberts
+site_url: https://morganjroberts.github.io/portfolio/
+repo_url: https://github.com/morganjroberts/portfolio
+
+# MAKE SURE ALL FILES FOLLOW HYPENATED CONVENTION
+
+nav:
+    - Home: index.md
+
+# extra_javascript: 
+#     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+# markdown_extensions:
+#     - mdx_math
+
+theme: 
+    name: material
+    #logo: img/open-UST_logo.png
