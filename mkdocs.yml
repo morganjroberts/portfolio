@@ -6,6 +6,31 @@ repo_url: https://github.com/morganjroberts/portfolio
 
 nav:
     - Home: index.md
+    - Open Source Ultrasound Imaging: open-source-ultrasound.md
+    - Mechanical Engineering:
+        - Transducer Manufacture: transducer-manufacture.md
+        - Ultrasound Scanning System: ultrasound-scanning-system.md
+        - Materials Characterisation Tank: materials-tank.md
+        - MRI Hardware: mri-hardware.md 
+    - Electrical Engineering:
+        - Custom 128 Channel Interconnect: dl5-interconnect.md
+        - Stepper Motor Controller: stepper-motor-control.md
+        - Electrical Impedance Matching Network Design: matching-networks.md        
+    - Software Development:
+        - Medical Image Reconstruction Software: image-reconstruction-software.md
+        - Instrument Control: instrument-control.md
+    - Ultrasound Transducer Characterisation: transducer-characterisation.md
+    - Material Development:
+        - Ultrasound Imaging: ultrasound-phantoms.md
+        - Dielectric Properties: dielectric-properties.md
+    - Publications: publications.md
+    - Personal: 
+        - Kiln: kiln.md
+        - Furniture: furniture.md
+        - Jewelery: jewelery.md
+        - Alarm Clock: alarm.md
+    - CV: cv.md
+    - Contact: contact.md
 
 # extra_javascript: 
 #     - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
