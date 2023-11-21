@@ -1,14 +1,15 @@
 # Open Source Ultrasound Imaging (PhD Project)
 
 ## Problem
-Ultrasound tomography (UST) is a promising technique for breast cancer imaging. However, custom commercial UST hardware is manufactured using advanced equipment and so it is expensive.
+Ultrasound tomography (UST) is a promising technique for breast cancer imaging. However, custom commercial UST hardware is manufactured using advanced equipment and is expensive.
 
 ## Solution
 During my PhD I designed, manufactured and evaluated a low-cost, open-source ultrasound tomography system for medical imaging research.
 
 I developed the open-UST transducer array to be manufactured using only rapid prototyping and off the shelf components, without specialist equipment. Extensive manufacturing documentation is available at **[morganjroberts.github.io/open-UST](https://morganjroberts.github.io/open-UST/)**: 
 
-![gif](./img/documentation-scroll.gif)
+<!-- from https://blog.apify.com/how-to-make-a-scrolling-gif-of-a-web-page/ -->
+![gif](./img/documentation-scroll.gif)  
 
 See [Transducer Manufacture](./transducer-manufacture.md) for more details about the mechnical engineering involved.
 
@@ -26,6 +27,6 @@ This section is a work in progress.
 
 ## Further Reading
 - PhD Thesis: 
-- Journal Article: [10.1109/TUFFC.2023.3280635](https://doi.org/10.1109/TUFFC.2023.3280635), available free at [discovery.ucl.ac.uk/id/eprint/10171428](https://discovery.ucl.ac.uk/id/eprint/10171428)
+- IEEE TUFFC Journal Article: [10.1109/TUFFC.2023.3280635](https://doi.org/10.1109/TUFFC.2023.3280635), available free at [discovery.ucl.ac.uk/id/eprint/10171428](https://discovery.ucl.ac.uk/id/eprint/10171428)
 
 
