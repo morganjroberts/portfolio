@@ -9,9 +9,9 @@ During my PhD I designed, manufactured and evaluated a low-cost, open-source ult
 I developed the open-UST transducer array to be manufactured using only rapid prototyping and off the shelf components, without specialist equipment. Extensive manufacturing documentation is available at **[morganjroberts.github.io/open-UST](https://morganjroberts.github.io/open-UST/)**: 
 
 <!-- from https://blog.apify.com/how-to-make-a-scrolling-gif-of-a-web-page/ -->
-![gif](./img/documentation-scroll.gif)  
+![gif](img/documentation-scroll.gif)  
 
-See [Transducer Manufacture](./transducer-manufacture.md) for more details about the mechnical engineering involved.
+See [Transducer Manufacture](transducer-manufacture.md) for more details about the mechnical engineering involved.
 
 ## Impact
 - The transducer material cost was only £2k.
