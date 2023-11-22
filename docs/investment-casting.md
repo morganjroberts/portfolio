@@ -68,9 +68,39 @@ After another pickling and then polishing, the piece was finally done!
 
 ## Bronze Walnuts
 
-After our success with raspberries, we tried casting walnuts. The metal did not fully fill the void left behind by the walnuts, and we suspect this is because we fed metal only to the centre of the walnut, and it solidifed before flowing all the way to the extent of the nut. Next time we will add additional sprues to also feed metal to the edges.
+After our success with raspberries, we tried casting walnuts. The metal did not fill up the entire void left behind by the walnuts. This could be because the sprue tree only fed metal to the centre of the walnut, and the molten bronze solidifed before flowing all the into the mould. Next time we will add additional sprues to also feed metal to the edges. Also, the walnut may not have completely burned out, and residual organics may have blocked the flow of the metal. The higher temperature [upgraded kiln](kilns.md) will hope fully fix this problem.
 
 ![walnuts](img/walnuts.png)
 
-## Bronze Pepper
+## Bronze Bell Pepper
+
+A bell is a classic object to cast in bronze, and we chose to cast a bell pepper!
+
+We followed the same process as for the raspberries, but added additional wax sprues to provide more paths for the molten metal to fill up the mould. The additional wax sprues also act as vents to prevent trapping gases when the metal is poured.
+
+![pepper-sprue](img/pepper-sprue.png)
+
+Next the flask was placed around the pepper, and the investment mould mixture was poured around the pepper:
+
+![pepper-invetsment](img/pepper-invetsment.png)
+
+After the mould had hardened, the flask was turned upside down and the sprue base was removed to expose the wax sprues and vents:
+
+![pepper-sprue-base](img/pepper-sprue-base.png)
+
+After burning out the wax and pepper in the kiln at 596 degrees C, molten bronze was created from a mixture of copper piping and tin (lead free plumbing solder), again using the electric furnace. The molten bronze was poured into the mould:
+
+![pepper-casting](img/pepper-casting.gif)
+
+After the bronze had solidified, the mould was quenched in water to remove the part:
+
+![mould-quench-1](img/mould-quench-1.gif) ![mould-quench-2](img/mould-quench-2.gif)
+
+After chipping away some residual investment mould, the pepper was revealed!
+
+![pepper-after-casting](img/pepper-after-casting.png)
+
+The sprues were removed with a hacksaw and files, and the surface of the pepper was cleaned up with a wire brush. There was a lot of porosity in the casting - this could be due to shrinkage (caused by poor sprue design), or due to improper burnout of the wax and pepper in the kiln.
+
+![pepper-sprue-removed](img/pepper-sprue-removed.png)
 

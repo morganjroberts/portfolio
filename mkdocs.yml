@@ -3,7 +3,6 @@ site_url: https://morganjroberts.github.io/portfolio/
 repo_url: https://github.com/morganjroberts/portfolio
 
 # MAKE SURE ALL FILES FOLLOW HYPENATED CONVENTION
-
 nav:
     - Home: index.md
     - Open Source Ultrasound Imaging: open-source-ultrasound.md
