@@ -22,7 +22,8 @@ The tenons were adjusted with hand planes and chisels until they fit tightly int
 Breadboard ends allow the panel to expand perpendicular to its grain direction, in response to seasonal changes in humidity. Accordingly, the ends are glued to the panel only in the middle. Dowels are used to pin the mortises to the tenons, and the outer tenons have slots to allow the dowels to shift when the panel expands and contracts:
 
 ![breadboard-glueing](img/breadboard-glueing.png)
-![breadboard-dowels](img/breadboard-dowels.png)
+![breadboard-dowels](img/breadboard-dowels.png)on bridge
+
 
 After hammering in the dowels, the transition between the panel and the breadboard end was smoothed out with a hand plane.
 ![planing-breadboard](img/planing-breadboard.png)
