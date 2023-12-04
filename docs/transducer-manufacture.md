@@ -28,9 +28,9 @@ A thin layer of composite (~165 $\mu$m) is usually deposited onto piezoelectric 
 
 ### Solution
 
-To address delamination defects, I developed a cleaning electrode procedure using abrasives and solvents - this improved yields from 45% to 94% during prototyping.
+To address delamination defects, I developed a careful cleaning electrode procedure using abrasives and solvents - this improved yields from 45% to 94% during prototyping.
 
-Methods already existed used to deposit thicker 600 $\mu$m layers with rapid prototyping technology. However, after testing these were determined to be unsuitable, due to their high interbatch variation in thickness ($\pm$50 $\mu$m).
+Methods already existed used to deposit thicker 600 $\mu$m layers on large piezoelectric crystals with rapid prototyping technology. However, after testing these were determined to be unsuitable for thin layers on small crystals, due to their high interbatch variation in thickness ($\pm$50 $\mu$m).
 
 Instead, through several rounds of prototyping I developed a novel matching layer deposition method. The composite layer was blade coated and then compressed onto the piezoelectric crystal using a glass plate, adjusting the compression depth using inexpensive precision gauge blocks as a positive stop.
 
