@@ -9,8 +9,8 @@ nav:
     - Mechanical Engineering:
         - Transducer Manufacture: transducer-manufacture.md
         - Ultrasound Scanning System: ultrasound-scanning-system.md
-        - Materials Characterisation Tank: materials-tank.md
-        - MRI Hardware: mri-hardware.md 
+        - Materials Characterisation: materials-tank.md
+        # - MRI Hardware: mri-hardware.md 
     - Electrical Engineering:
         - Custom 128 Channel Interconnect: dl5-interconnect.md
         - Stepper Motor Controller: stepper-motor-control.md
@@ -19,15 +19,15 @@ nav:
         - Medical Image Reconstruction Software: image-reconstruction-software.md
         - Instrument Control: instrument-control.md
     - Ultrasound Transducer Characterisation: transducer-characterisation.md
-    - Material Development:
-        - Ultrasound Imaging: ultrasound-phantoms.md
-        - Dielectric Properties: dielectric-properties.md
+    # - Material Development:
+    #     - Ultrasound Imaging: ultrasound-phantoms.md
+    #     - Dielectric Properties: dielectric-properties.md
     - Publications: publications.md
     - Personal: 
-        - Kilns: kilns.md
+        # - Kilns: kilns.md
         - Furniture: furniture.md
         - Investment Casting: investment-casting.md
-        - Alarm Clock: alarm.md
+        # - Alarm Clock: alarm.md
     - CV: cv.md
     - Contact: contact.md
 

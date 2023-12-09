@@ -1,7 +1,7 @@
 # Hello!
 
-I'm Morgan, a medical research engineer with a passion for hands-on manufacture and experiments. I recently finished a PhD developing [open-source medical ultrasound hardware](./open-source-ultrasound.md) for breast cancer imaging. Now I work as a research fellow, building experimental setups to investigate how focused ultrasound can change brain activity.
+Hello, I'm Morgan, an experienced med-tech engineer with a keen interest in hands on research and development. My journey includes a PhD focused on developing [open-source medical ultrasound hardware](./open-source-ultrasound.md) for breast cancer imaging, and my current role as a research fellow involves creating MRI-compatible hardware to explore the impact of focused ultrasound on brain activity.
 
-I am a confident generalist with strong hardware and software skills.
+Throughout my PhD, I excelled in acquiring a diverse skill set, spanning medical device design, software development, MRI and ultrasound physics, RF and digital electronics, mechanical design, manufacturing, and advanced data analysis. This demonstrates my passion for rapidly mastering new domains and tackling complex, multidisciplinary challenges.
 
-This website is a portfolio of some professional and personal engineering projects. Take a look around!
+Welcome to my website, a showcase of my professional and personal engineering projects. Enjoy exploring!
